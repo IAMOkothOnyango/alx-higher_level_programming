@@ -22,7 +22,7 @@ scripting. The specific list of projects contained follows:
 
 ## Author :
 
-* **Tolulope Fakunle** <[Okoth Onyango](https://github.com/OkothOnyango)>
+* **Okoth Onyango** <[Okoth Onyango](https://github.com/OkothOnyango)>
 
 ## Acknowledgements :pray:
 
